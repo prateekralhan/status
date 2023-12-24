@@ -11,6 +11,10 @@ sites:
     url: https://streamlit-chatgpt-dalle2.onrender.com/
   - name: QRCode Generator
     url: https://qrcode-generator.onrender.com/
+  - name: Natural Language <2> SQL Query
+    url: https://natural-language-2-sql-queries.onrender.com/
+  - name: ChatGPT Beyond 2021
+    url: https://chatgpt-beyond-2021.onrender.com/
 
 status-website:
   baseUrl: / prateekralhan.github.io
