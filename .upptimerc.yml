@@ -6,7 +6,7 @@ sites:
   - name: Prateek Ralhan - Portfolio
     url: https://prateekralhan.github.io/
   - name: Bangalore - Realtime Weather Stats
-    url: https://bangalore-weather-stats.streamlit.app/
+    url: https://bangalore-weather-stats.onrender.com/
   - name: ChatGPT + DALL-E
     url: https://streamlit-chatgpt-dalle2.onrender.com/
   - name: QRCode Generator
