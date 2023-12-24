@@ -15,6 +15,8 @@ sites:
     url: https://natural-language-2-sql-queries.onrender.com/
   - name: ChatGPT Beyond 2021
     url: https://chatgpt-beyond-2021.onrender.com/
+  - name: Prateek Ralhan | Resume
+    url: https://prateek-online-resume-render.onrender.com/
 
 status-website:
   baseUrl: / prateekralhan.github.io
