@@ -11,10 +11,6 @@ sites:
     url: https://streamlit-chatgpt-dalle2.onrender.com/
   - name: QRCode Generator
     url: https://qrcode-generator.onrender.com/
-  - name: Flash News
-    url: https://flash-news-python.herokuapp.com/
-  - name: Car Price Detector
-    url: https://car-price-predict-app.herokuapp.com/
 
 status-website:
   baseUrl: / prateekralhan.github.io
