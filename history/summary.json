@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 31,
-    "timeDay": 31,
-    "timeWeek": 31,
-    "timeMonth": 31,
-    "timeYear": 31,
+    "time": 86,
+    "timeDay": 86,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,56 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangalore-weather-stats.streamlit.app.ico",
     "slug": "bangalore-realtime-weather-stats",
     "status": "down",
-    "uptime": "23.19%",
-    "uptimeDay": "23.19%",
-    "uptimeWeek": "23.19%",
-    "uptimeMonth": "23.19%",
-    "uptimeYear": "23.19%",
+    "uptime": "0.87%",
+    "uptimeDay": "0.87%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "0.87%",
+    "uptimeYear": "0.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-24": 5
+    }
+  },
+  {
+    "name": "Flash News",
+    "url": "https://flash-news-python.herokuapp.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/flash-news-python.herokuapp.com.ico",
+    "slug": "flash-news",
+    "status": "down",
+    "uptime": "4.86%",
+    "uptimeDay": "4.86%",
+    "uptimeWeek": "4.86%",
+    "uptimeMonth": "4.86%",
+    "uptimeYear": "4.86%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
+  },
+  {
+    "name": "Car Price Detector",
+    "url": "https://car-price-predict-app.herokuapp.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/car-price-predict-app.herokuapp.com.ico",
+    "slug": "car-price-detector",
+    "status": "down",
+    "uptime": "30.09%",
+    "uptimeDay": "30.09%",
+    "uptimeWeek": "30.09%",
+    "uptimeMonth": "30.09%",
+    "uptimeYear": "30.09%",
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2023-12-24": 0
     }
