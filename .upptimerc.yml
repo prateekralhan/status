@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: Prateek Ralhan - Portfolio
     url: https://prateekralhan.github.io/
+  - name: Bangalore - Realtime Weather Stats
+    url: https://bangalore-weather-stats.streamlit.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
