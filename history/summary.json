@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 33,
-    "timeDay": 33,
-    "timeWeek": 33,
-    "timeMonth": 33,
-    "timeYear": 33,
+    "time": 31,
+    "timeDay": 31,
+    "timeWeek": 31,
+    "timeMonth": 31,
+    "timeYear": 31,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bangalore - Realtime Weather Stats",
+    "url": "https://bangalore-weather-stats.streamlit.app/",
+    "icon": "https://icons.duckduckgo.com/ip3/bangalore-weather-stats.streamlit.app.ico",
+    "slug": "bangalore-realtime-weather-stats",
+    "status": "down",
+    "uptime": "44.06%",
+    "uptimeDay": "44.06%",
+    "uptimeWeek": "44.06%",
+    "uptimeMonth": "44.06%",
+    "uptimeYear": "44.06%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   }
 ]
