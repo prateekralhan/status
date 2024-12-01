@@ -1,7 +1,7 @@
 url: https://bangalore-weather-stats.onrender.com/
-status: down
-code: 503
-responseTime: 342
-lastUpdated: 2024-11-30T23:13:37.506Z
+status: up
+code: 200
+responseTime: 12716
+lastUpdated: 2024-12-01T03:49:48.991Z
 startTime: 2023-12-24T19:55:48.336Z
 generator: Upptime <https://github.com/upptime/upptime>
