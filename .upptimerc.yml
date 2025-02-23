@@ -28,7 +28,7 @@ status-website:
     - title: Home
       href: https://prateekralhan.github.io/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/prateekralhan
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
