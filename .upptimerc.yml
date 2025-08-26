@@ -5,6 +5,10 @@ repo: status
 sites:
   - name: Prateek Ralhan - Portfolio
     url: https://prateekralhan.github.io/
+  - name: Prateek Ralhan - Portfolio (neomorphism) - Vercel
+    url: https://prateekralhan.vercel.app/
+  - name: Prateek Ralhan - Portfolio (neomorphism) - Netlify
+    url: https://prateekralhan.netlify.app/
   - name: Bangalore - Realtime Weather Stats
     url: https://bangalore-weather-stats.onrender.com/
   - name: ChatGPT + DALL-E
