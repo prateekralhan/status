@@ -9,6 +9,10 @@ sites:
     url: https://prateekralhan.vercel.app/
   - name: Prateek Ralhan - Portfolio (neomorphism) - Netlify
     url: https://prateekralhan.netlify.app/
+  - name: NaaS - Vercel
+    url: https://naa-s-rejection-as-a-service.vercel.app/
+  - name: NaaS - Netlify
+    url: https://rejection-as-a-service.netlify.app/
   - name: Bangalore - Realtime Weather Stats
     url: https://bangalore-weather-stats.onrender.com/
   - name: ChatGPT + DALL-E
