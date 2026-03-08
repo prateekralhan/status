@@ -116,19 +116,19 @@
     "url": "https://bangalore-weather-stats.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bangalore-weather-stats.onrender.com.ico",
     "slug": "bangalore-realtime-weather-stats",
-    "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "79.76%",
-    "uptimeWeek": "62.40%",
-    "uptimeMonth": "29.20%",
-    "uptimeYear": "93.70%",
-    "time": 2300,
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "79.67%",
+    "uptimeWeek": "62.38%",
+    "uptimeMonth": "29.19%",
+    "uptimeYear": "93.72%",
+    "time": 2302,
     "timeDay": 456,
     "timeWeek": 3053,
     "timeMonth": 3644,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2026-03-08": 273,
+      "2026-03-08": 274,
       "2026-03-07": 288,
       "2026-03-06": 539,
       "2026-03-05": 577,
@@ -162,7 +162,7 @@
       "2026-02-05": 368,
       "2026-02-04": 290,
       "2026-02-03": 363,
-      "2026-02-02": 392
+      "2026-02-02": 297
     }
   },
   {
@@ -263,7 +263,7 @@
     "uptimeMonth": "35.82%",
     "uptimeYear": "81.10%",
     "time": 2087,
-    "timeDay": 2997,
+    "timeDay": 3268,
     "timeWeek": 5804,
     "timeMonth": 4898,
     "timeYear": 2194,
@@ -458,17 +458,17 @@
     "slug": "chat-gpt-beyond-2021",
     "status": "up",
     "uptime": "94.24%",
-    "uptimeDay": "73.32%",
-    "uptimeWeek": "65.35%",
-    "uptimeMonth": "29.68%",
+    "uptimeDay": "74.27%",
+    "uptimeWeek": "65.54%",
+    "uptimeMonth": "29.71%",
     "uptimeYear": "87.31%",
     "time": 2781,
     "timeDay": 785,
-    "timeWeek": 5416,
+    "timeWeek": 5504,
     "timeMonth": 5306,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2026-03-08": 367,
+      "2026-03-08": 353,
       "2026-03-07": 622,
       "2026-03-06": 512,
       "2026-03-05": 508,
@@ -528,7 +528,7 @@
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 760,
-      "2026-01-07": 25
+      "2026-01-07": 53
     }
   },
   {
