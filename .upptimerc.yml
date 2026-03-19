@@ -13,6 +13,8 @@ sites:
     url: https://naa-s-rejection-as-a-service.vercel.app/
   - name: NaaS - Netlify
     url: https://rejection-as-a-service.netlify.app/
+  - name: NaaS v2 - Netlify
+    url: https://no-as-a-service-v2.netlify.app/
   - name: Bangalore - Realtime Weather Stats
     url: https://bangalore-weather-stats.onrender.com/
   - name: ChatGPT + DALL-E
