@@ -392,17 +392,17 @@
     "url": "https://natural-language-2-sql-queries.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/natural-language-2-sql-queries.onrender.com.ico",
     "slug": "natural-language-2-sql-query",
-    "status": "down",
-    "uptime": "94.54%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "86.58%",
-    "time": 3559,
-    "timeDay": 323,
-    "timeWeek": 3586,
-    "timeMonth": 8302,
-    "timeYear": 3726,
+    "status": "up",
+    "uptime": "94.52%",
+    "uptimeDay": "80.13%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "79.97%",
+    "uptimeYear": "86.54%",
+    "time": 3581,
+    "timeDay": 9037,
+    "timeWeek": 5160,
+    "timeMonth": 8522,
+    "timeYear": 3745,
     "dailyMinutesDown": {
       "2026-03-05": 216,
       "2026-03-06": 504,
@@ -477,7 +477,7 @@
       "2026-05-27": 1440,
       "2026-05-26": 378,
       "2026-06-02": 270,
-      "2026-06-08": 68
+      "2026-06-08": 286
     }
   },
   {
