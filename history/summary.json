@@ -394,10 +394,10 @@
     "slug": "natural-language-2-sql-query",
     "status": "down",
     "uptime": "94.54%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "80.62%",
-    "uptimeYear": "86.60%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "80.46%",
+    "uptimeYear": "86.58%",
     "time": 3559,
     "timeDay": 323,
     "timeWeek": 3586,
@@ -477,7 +477,7 @@
       "2026-05-27": 1440,
       "2026-05-26": 378,
       "2026-06-02": 270,
-      "2026-06-08": 1
+      "2026-06-08": 68
     }
   },
   {
