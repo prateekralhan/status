@@ -141,17 +141,17 @@
     "url": "https://bangalore-weather-stats.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bangalore-weather-stats.onrender.com.ico",
     "slug": "bangalore-realtime-weather-stats",
-    "status": "down",
-    "uptime": "96.45%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "81.85%",
-    "uptimeYear": "91.14%",
-    "time": 3645,
-    "timeDay": 51568,
-    "timeWeek": 31260,
-    "timeMonth": 20870,
-    "timeYear": 3994,
+    "status": "up",
+    "uptime": "96.42%",
+    "uptimeDay": "77.18%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "81.12%",
+    "uptimeYear": "91.08%",
+    "time": 3688,
+    "timeDay": 46970,
+    "timeWeek": 32649,
+    "timeMonth": 21436,
+    "timeYear": 4039,
     "dailyMinutesDown": {
       "2026-04-01": 268,
       "2026-04-02": 971,
@@ -201,7 +201,7 @@
       "2026-05-27": 1440,
       "2026-05-26": 379,
       "2026-06-09": 180,
-      "2026-06-22": 7
+      "2026-06-22": 329
     }
   },
   {
