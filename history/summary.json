@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 137,
-    "timeWeek": 151,
+    "timeWeek": 166,
     "timeMonth": 153,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "uptimeYear": "99.97%",
     "time": 333,
     "timeDay": 608,
-    "timeWeek": 322,
+    "timeWeek": 284,
     "timeMonth": 354,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 131,
-    "timeWeek": 124,
+    "timeWeek": 136,
     "timeMonth": 114,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -107,7 +107,7 @@
     "uptimeYear": "99.93%",
     "time": 447,
     "timeDay": 600,
-    "timeWeek": 380,
+    "timeWeek": 350,
     "timeMonth": 457,
     "timeYear": 447,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.93%",
     "time": 413,
     "timeDay": 634,
-    "timeWeek": 382,
+    "timeWeek": 360,
     "timeMonth": 469,
     "timeYear": 413,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "90.82%",
     "time": 5175,
     "timeDay": 21277,
-    "timeWeek": 20183,
+    "timeWeek": 18794,
     "timeMonth": 22179,
     "timeYear": 5895,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
     "uptimeYear": "86.29%",
     "time": 3721,
     "timeDay": 42562,
-    "timeWeek": 17350,
+    "timeWeek": 19231,
     "timeMonth": 11501,
     "timeYear": 4137,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
     "uptimeYear": "86.29%",
     "time": 3968,
     "timeDay": 1303,
-    "timeWeek": 7910,
+    "timeWeek": 7424,
     "timeMonth": 11109,
     "timeYear": 4617,
     "dailyMinutesDown": {
@@ -418,7 +418,7 @@
     "uptimeYear": "86.25%",
     "time": 3899,
     "timeDay": 2282,
-    "timeWeek": 5615,
+    "timeWeek": 4908,
     "timeMonth": 4682,
     "timeYear": 4468,
     "dailyMinutesDown": {
@@ -515,7 +515,7 @@
     "uptimeYear": "86.05%",
     "time": 5654,
     "timeDay": 21283,
-    "timeWeek": 11258,
+    "timeWeek": 11129,
     "timeMonth": 14914,
     "timeYear": 6172,
     "dailyMinutesDown": {
@@ -601,19 +601,18 @@
     "url": "https://prateek-online-resume-render.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prateek-online-resume-render.onrender.com.ico",
     "slug": "prateek-ralhan-resume",
-    "status": "up",
+    "status": "down",
     "uptime": "92.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "96.14%",
-    "uptimeYear": "81.50%",
-    "time": 8304,
-    "timeDay": 52522,
-    "timeWeek": 30763,
-    "timeMonth": 34523,
-    "timeYear": 9860,
+    "uptimeYear": "81.51%",
+    "time": 8285,
+    "timeDay": 26404,
+    "timeWeek": 26015,
+    "timeMonth": 33545,
+    "timeYear": 9843,
     "dailyMinutesDown": {
-      "2026-02-07": 28,
       "2026-02-08": 39,
       "2026-02-09": 151,
       "2026-02-10": 92,
@@ -716,7 +715,8 @@
       "2026-08-01": 73,
       "2026-07-31": 1440,
       "2026-07-30": 146,
-      "2026-08-09": 33
+      "2026-08-09": 33,
+      "2026-08-14": 1
     }
   }
 ]
