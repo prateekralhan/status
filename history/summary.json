@@ -141,17 +141,17 @@
     "url": "https://bangalore-weather-stats.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bangalore-weather-stats.onrender.com.ico",
     "slug": "bangalore-realtime-weather-stats",
-    "status": "down",
+    "status": "up",
     "uptime": "96.58%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "90.94%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "90.93%",
     "time": 5259,
-    "timeDay": 23844,
-    "timeWeek": 18119,
-    "timeMonth": 20756,
-    "timeYear": 5992,
+    "timeDay": 19130,
+    "timeWeek": 16496,
+    "timeMonth": 20244,
+    "timeYear": 5985,
     "dailyMinutesDown": {
       "2026-04-02": 166,
       "2026-04-03": 1111,
@@ -206,7 +206,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 147,
       "2026-08-09": 30,
-      "2026-08-17": 25
+      "2026-08-17": 65
     }
   },
   {
@@ -214,17 +214,17 @@
     "url": "https://streamlit-chatgpt-dalle2.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/streamlit-chatgpt-dalle2.onrender.com.ico",
     "slug": "chat-gpt-dall-e",
-    "status": "down",
+    "status": "up",
     "uptime": "94.82%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "95.34%",
     "uptimeYear": "86.29%",
-    "time": 3766,
-    "timeDay": 10905,
-    "timeWeek": 16252,
-    "timeMonth": 11394,
-    "timeYear": 4185,
+    "time": 3561,
+    "timeDay": 8848,
+    "timeWeek": 14831,
+    "timeMonth": 11125,
+    "timeYear": 4180,
     "dailyMinutesDown": {
       "2026-03-05": 226,
       "2026-03-06": 358,
@@ -304,7 +304,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 147,
       "2026-08-09": 30,
-      "2026-08-17": 24
+      "2026-08-17": 63
     }
   },
   {
@@ -312,17 +312,17 @@
     "url": "https://qrcode-generator.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrcode-generator.onrender.com.ico",
     "slug": "qr-code-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "94.83%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "86.31%",
-    "time": 3971,
-    "timeDay": 3440,
-    "timeWeek": 1846,
-    "timeMonth": 9198,
-    "timeYear": 4616,
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "86.30%",
+    "time": 3943,
+    "timeDay": 2808,
+    "timeWeek": 1703,
+    "timeMonth": 8975,
+    "timeYear": 4610,
     "dailyMinutesDown": {
       "2026-03-07": 295,
       "2026-03-08": 235,
@@ -403,7 +403,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 147,
       "2026-08-09": 32,
-      "2026-08-17": 25
+      "2026-08-17": 64
     }
   },
   {
@@ -411,17 +411,17 @@
     "url": "https://natural-language-2-sql-queries.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/natural-language-2-sql-queries.onrender.com.ico",
     "slug": "natural-language-2-sql-query",
-    "status": "down",
+    "status": "up",
     "uptime": "94.81%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "86.26%",
-    "time": 3890,
-    "timeDay": 287,
-    "timeWeek": 3345,
-    "timeMonth": 3961,
-    "timeYear": 4461,
+    "time": 3938,
+    "timeDay": 14287,
+    "timeWeek": 7672,
+    "timeMonth": 4969,
+    "timeYear": 4518,
     "dailyMinutesDown": {
       "2026-03-06": 408,
       "2026-03-07": 352,
@@ -501,7 +501,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 146,
       "2026-08-09": 32,
-      "2026-08-17": 1
+      "2026-08-17": 42
     }
   },
   {
@@ -509,17 +509,17 @@
     "url": "https://chatgpt-beyond-2021.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/chatgpt-beyond-2021.onrender.com.ico",
     "slug": "chat-gpt-beyond-2021",
-    "status": "down",
+    "status": "up",
     "uptime": "94.73%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "86.05%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "86.04%",
     "time": 5339,
-    "timeDay": 13617,
-    "timeWeek": 11092,
-    "timeMonth": 13414,
-    "timeYear": 6219,
+    "timeDay": 11020,
+    "timeWeek": 10141,
+    "timeMonth": 13078,
+    "timeYear": 6212,
     "dailyMinutesDown": {
       "2026-03-07": 152,
       "2026-03-08": 353,
@@ -596,7 +596,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 146,
       "2026-08-09": 33,
-      "2026-08-17": 70
+      "2026-08-17": 110
     }
   },
   {
@@ -604,17 +604,17 @@
     "url": "https://prateek-online-resume-render.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prateek-online-resume-render.onrender.com.ico",
     "slug": "prateek-ralhan-resume",
-    "status": "down",
-    "uptime": "93.01%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "95.82%",
+    "status": "up",
+    "uptime": "93.00%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "81.48%",
-    "time": 8419,
-    "timeDay": 21378,
-    "timeWeek": 24476,
-    "timeMonth": 30330,
-    "timeYear": 9973,
+    "time": 8479,
+    "timeDay": 28407,
+    "timeWeek": 26111,
+    "timeMonth": 30649,
+    "timeYear": 10028,
     "dailyMinutesDown": {
       "2026-02-08": 22,
       "2026-02-09": 151,
@@ -720,7 +720,7 @@
       "2026-07-30": 146,
       "2026-08-09": 33,
       "2026-08-14": 96,
-      "2026-08-17": 44
+      "2026-08-17": 86
     }
   }
 ]
